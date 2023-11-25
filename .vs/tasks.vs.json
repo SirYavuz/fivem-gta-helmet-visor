@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "görev-FiveMYavzuHelmet",
+      "appliesTo": "FiveMYavzuHelmet/FiveMYavzuHelmet.csproj",
+      "type": "msbuild"
+    },
+    {
+      "taskLabel": "görev-Properties",
+      "appliesTo": "FiveMYavzuHelmet/Properties/",
+      "type": "launch"
+    }
+  ]
+}
